@@ -3,7 +3,7 @@
  https://jumperche.shinyapps.io/tour/
 
 
- ### README for GitHub Repository
+
 
 # TourGuideConnect - A Shiny Mobile Application
 
