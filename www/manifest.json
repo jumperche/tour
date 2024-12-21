@@ -1,0 +1,29 @@
+{
+  "name": "My Shiny PWA",
+  "short_name": "ShinyPWA",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "orientation": "portrait",
+  "dir": "ltr",
+  "description": "This is my PWA",
+  "categories": ["utilities", "productivity"],
+  "id": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "www/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "www/icon_maskable.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [],
+  "lang": "en",
+  "display_override": ["windows-control-overlay", "standalone"]
+}
